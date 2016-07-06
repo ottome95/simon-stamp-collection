@@ -1,6 +1,6 @@
 Simon's Stamp Collection App
 ---
 
-# About Simon sucks
+# About
 
 Stuff about Simon's Stamps here...
